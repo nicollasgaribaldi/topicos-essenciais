@@ -1,2 +1,2 @@
-# topicos-essenciais
-Repository destined to all files from Coding Essential Topics class of College studies.
+# Tópicos Essenciais para Programação - P1 Turma B (Noite)
+Aluno: Nícollas Garibaldi Eloy Souza de Pinho
